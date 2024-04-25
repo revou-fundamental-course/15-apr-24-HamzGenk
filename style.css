@@ -1,0 +1,80 @@
+main {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-section {
+    padding: 16px;
+    background-color: beige;
+    border-radius: 4px;
+}
+
+.section-judul {
+    font-size: 20px;
+}
+
+.section-celcius {
+    padding-top: 16px;
+}
+
+.section-fahrenheit {
+    padding-top: 16px;
+}
+
+.section-result {
+    padding-top: 16px;
+}
+
+.section-explanation {
+    padding-top: 16px;
+}
+
+textarea {
+    width: 75%;
+    height: 32px;
+}
+
+button {
+    border: none;
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 4px;
+    font-style: aral;
+}
+
+#button-convert {
+    background-color: chartreuse;
+    color: rgb(128, 196, 255);
+}
+
+#button-reset {
+    background-color: blue;
+    color: rgb(151, 206, 255);
+}
+
+#button-reverse {
+    background-color: palevioletred;
+    color: rgb(145, 204, 255);
+}
+
+.content {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.sub {
+    font-size: 0.8em;
+    vertical-align: sub;
+}
+
+.sup {
+    font-size: 20px;
+    font-style: italic;
+}
